@@ -1,27 +1,8 @@
----
-title: Models
-notebook: olives-model.ipynb
-nav_include: 2
----
 
-## Contents
-{:.no_toc}
-*  
-{: toc}
+# Models
 
 
 
-
-```python
-#!pip install seaborn
-%matplotlib inline
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import seaborn as sns
-pd.set_option('display.width', 500)
-pd.set_option('display.max_columns', 100)
-```
 
 
 

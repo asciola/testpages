@@ -1,26 +1,8 @@
----
-title: EDA
-notebook: olives-eda.ipynb
-nav_include: 1
----
 
-## Contents
-{:.no_toc}
-*  
-{: toc}
+# EDA
 
 
 
-
-```python
-%matplotlib inline
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import seaborn as sns
-pd.set_option('display.width', 500)
-pd.set_option('display.max_columns', 100)
-```
 
 
 ## Italian Olives
